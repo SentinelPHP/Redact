@@ -2,7 +2,7 @@
     "name": "sentinelphp/redact",
     "description": "PII redaction library for JSON payloads and strings",
     "type": "library",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "keywords": ["pii", "redaction", "privacy", "data-protection", "gdpr"],
     "homepage": "https://github.com/SentinelPHP/redact",
     "authors": [

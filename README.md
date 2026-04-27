@@ -70,4 +70,4 @@ $redacted = $redactor->redact($data);
 
 ## License
 
-MIT
+GPL v3 — see LICENSE for details
